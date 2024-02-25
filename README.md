@@ -1,6 +1,6 @@
-# Azure Data Engineering Project: Insightful Analytics with Sakila Database
+# Product Sales Analytics with Azure Dataa Engineering
 
-Welcome to the GitHub repository for my Azure Data Engineering project! This repository contains all the code and resources used to transform the Sakila MySQL database into a powerhouse of business intelligence using Azure's cloud computing capabilities.
+
 
 ## Project Overview
 
@@ -23,13 +23,7 @@ In this project, I've tackled the challenge of converting raw CSV data from the 
 - **Azure Databricks**: For data processing and transformation.
 - **PowerBI**: For creating insightful visualizations.
 
-## Key Questions Answered
 
-1. Who are our top 5 most valuable customers?
-2. Which employees have processed the most orders?
-3. How do sales trends vary across offices over the years?
-4. What's the total sales figure for each year?
-5. Which products are selling the least?
 
 ## Snapshot of ADF pipeline
 ![alt text](https://github.com/sarmadafzalj/AzureDataEngineering/blob/main/images/pipeline.jpg?raw=true)
