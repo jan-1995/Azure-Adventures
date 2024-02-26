@@ -30,7 +30,7 @@ In this project, I've tackled the challenge of converting raw CSV data from the 
 
 
 ## Snapshot of ADF pipeline
-![alt text](https://github.com/sarmadafzalj/AzureDataEngineering/blob/main/images/pipeline.jpg?raw=true)
+![alt text](https://github.com/jan-1995/AZ_DATA_ENGINEERING/blob/main/Images/ADF%20Pipeline.png)
 
 ## Snapshot of PowerBI dashboard
 ![alt text](https://github.com/sarmadafzalj/AzureDataEngineering/blob/main/images/dashboard.png?raw=true)
