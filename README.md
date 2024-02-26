@@ -1,10 +1,6 @@
-<<<<<<< HEAD
+
 # AZ_DATA_ENGINEERING
-Data Engineering Project with Azure
-=======
-# Product Sales Analytics with Azure Dataa Engineering
-
-
+Product Sales Analytics with Azure Dataa Engineering
 
 ## Project Overview
 
