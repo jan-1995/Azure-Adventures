@@ -8,7 +8,7 @@ Data Engineering Project with Azure
 
 ## Project Overview
 
-In this project, I've tackled the challenge of converting raw CSV data from the Sakila database into meaningful insights. The journey involves data ingestion, storage, transformation, and visualization, all within Azure's ecosystem.
+The aim of this project was to ingest raw data from an on premises SQL server containing Azure's sample prodcut sales data (which can be found on kaggle), creating an ingesting and data transformation and loading ETL using Microsoft's native tool called Azure Data Factory, Azure Data Bricks and Synapse, and then ultimately load the data into Power BI and gain possible data driven insights from this data. This is an End to End Data Engineering Project which is why I urge the person reading this to practice and go through this entire project with data of their choice
 
 ![alt text](https://github.com/jan-1995/AZ_DATA_ENGINEERING/blob/main/Images/Workflow.png)
 
@@ -26,17 +26,18 @@ In this project, I've tackled the challenge of converting raw CSV data from the 
 - **Azure Data Lake Gen 2**: Used as our primary data storage.
 - **Azure Databricks**: For data processing and transformation.
 - **PowerBI**: For creating insightful visualizations.
-
+- **Azure Synapse Analytics**: For Data Loading
 
 
 ## Snapshot of ADF pipeline
+
 ![alt text](https://github.com/jan-1995/AZ_DATA_ENGINEERING/blob/main/Images/ADF%20Pipeline.png)
 
 ## Snapshot of PowerBI dashboard
+
 ![alt text](https://github.com/jan-1995/AZ_DATA_ENGINEERING/blob/main/Images/PBI_Dashboard.png)
 
 ## Contribute
 
 Feel free to fork this repository, experiment with the code, and suggest improvements! If you have any questions or feedback, don't hesitate to open an issue or submit a pull request.
 ---
->>>>>>> origin/main
