@@ -10,7 +10,7 @@ Data Engineering Project with Azure
 
 In this project, I've tackled the challenge of converting raw CSV data from the Sakila database into meaningful insights. The journey involves data ingestion, storage, transformation, and visualization, all within Azure's ecosystem.
 
-![alt text]([https://github.com/sarmadafzalj/AzureDataEngineering/blob/main/images/Architecture.jpg?raw=true](https://github.com/jan-1995/AZ_DATA_ENGINEERING/blob/main/Images/Workflow.png))
+![alt text](https://github.com/sarmadafzalj/AzureDataEngineering/blob/main/images/Architecture.jpg?raw=true)
 
 
 ### What's Inside:
